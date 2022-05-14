@@ -1,3 +1,5 @@
+![Alt text](https://i.imgur.com/NK5gCH4.png[/img])
+
 ## Opa tudo bom pessoal? estava um pouco sumido por que estava terminando um curso de kotlin =D, finalizei e tentei colocar em pratica o que eu aprendi.
 
 
